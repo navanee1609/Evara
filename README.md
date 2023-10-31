@@ -61,4 +61,6 @@ Happy shopping with Evara!
 
 https://github.com/navanee1609/Evara/assets/120004894/9aef1b9e-86ee-4ef3-a599-fa627b34eab8
 
+![Evara shopping card](https://github.com/navanee1609/Evara/assets/120004894/680fd04f-4d91-41c5-8f67-6990c4412bf9)
+
 
